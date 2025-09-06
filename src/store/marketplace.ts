@@ -90,7 +90,7 @@ const mockProducts: Product[] = [
     category: 'Electronics',
     image: '/placeholder.svg',
     sellerId: 'seller1',
-    sellerName: 'TechStore',
+    sellerName: 'Avnisha B',
     createdAt: '2024-01-15',
     featured: true
   },
@@ -102,7 +102,7 @@ const mockProducts: Product[] = [
     category: 'Electronics',
     image: '/Smartwatch.jpg',
     sellerId: 'seller2',
-    sellerName: 'FitGear',
+    sellerName: 'Aditi M',
     createdAt: '2024-01-14',
     featured: true
   },
@@ -114,7 +114,7 @@ const mockProducts: Product[] = [
     category: 'Fashion',
     image: '/placeholder.svg',
     sellerId: 'seller3',
-    sellerName: 'StyleCo',
+    sellerName: 'Muddasir S',
     createdAt: '2024-01-13'
   },
   {
@@ -125,7 +125,7 @@ const mockProducts: Product[] = [
     category: 'Home',
     image: '/placeholder.svg',
     sellerId: 'seller4',
-    sellerName: 'HomeDesign',
+    sellerName: 'Vedant G',
     createdAt: '2024-01-12'
   },
   {
@@ -136,7 +136,7 @@ const mockProducts: Product[] = [
     category: 'Books',
     image: '/placeholder.svg',
     sellerId: 'seller5',
-    sellerName: 'EduBooks',
+    sellerName: 'Md Rehan',
     createdAt: '2024-01-11'
   }
 ];
