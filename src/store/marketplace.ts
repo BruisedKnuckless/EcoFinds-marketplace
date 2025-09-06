@@ -98,7 +98,7 @@ const mockProducts: Product[] = [
     id: '2',
     title: 'Smart Fitness Watch',
     description: 'Track your fitness goals with this advanced smartwatch featuring heart rate monitoring.',
-    price: 199.99,
+    price: 22222,
     category: 'Electronics',
     image: '/placeholder.svg',
     sellerId: 'seller2',
