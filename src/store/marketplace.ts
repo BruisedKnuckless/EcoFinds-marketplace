@@ -130,11 +130,11 @@ const mockProducts: Product[] = [
   },
   {
     id: '5',
-    title: 'Programming Fundamentals',
+    title: 'Modern Laptop',
     description: 'Comprehensive guide to learning programming from basics to advanced concepts.',
-    price: 49.99,
+    price: 54990,
     category: 'Books',
-    image: '/Programming Fundamentals.jpg',
+    image: '/laptop-computer.jpeg',
     sellerId: 'seller5',
     sellerName: 'Md Rehan',
     createdAt: '2024-01-11'
