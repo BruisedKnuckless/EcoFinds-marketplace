@@ -100,7 +100,7 @@ const mockProducts: Product[] = [
     description: 'Track your fitness goals with this advanced smartwatch featuring heart rate monitoring.',
     price: 22222,
     category: 'Electronics',
-    image: 'BruisedKnuckless/lovable-play-store/public/Smartwatch.jpg',
+    image: '/Smartwatch.jpg',
     sellerId: 'seller2',
     sellerName: 'FitGear',
     createdAt: '2024-01-14',
