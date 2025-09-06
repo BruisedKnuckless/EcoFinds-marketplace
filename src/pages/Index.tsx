@@ -159,7 +159,7 @@ const Index = () => {
           <p className="text-xl text-secondary-foreground/90 mb-8 max-w-2xl mx-auto">
             Join our community of sellers and start earning today. It's free to list your products!
           </p>
-          <Button variant="outline" size="lg" className="border-secondary-foreground text-black bg-primary-foreground text-black">
+          <Button variant="outline" size="lg" className="border-secondary-foreground text-secondary-foreground bg-primary-foreground text-primary">
             Get Started Now
             <ArrowRight className="ml-2 h-5 w-5" />
           </Button>
