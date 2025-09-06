@@ -55,7 +55,7 @@ const Index = () => {
                 Start Shopping
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Button>
-              <Button variant="outline" size="lg" className="border-primary-foreground text-primary-foreground hover:bg-primary-foreground hover:text-primary">
+              <Button variant="outline" size="lg" className="bg-blue-500 text-white border-blue-500 hover:bg-blue-600 hover:text-white">
                 Sell Your Products
               </Button>
             </div>
