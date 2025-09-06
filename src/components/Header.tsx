@@ -58,10 +58,11 @@ export function Header() {
 
             {/* Desktop Navigation */}
             <div className="hidden md:flex items-center space-x-4">
-              <a href="https://market-motto.lovable.app" target="_blank" rel="noopener noreferrer"></a>
-              <Button variant="ghost" onClick={handleSellClick}>
-                Sell
-              </Button>
+             <a href="https://market-motto.lovable.app" target="_blank" rel="noopener noreferrer">
+              <Button variant="ghost">
+               Sell
+               </Button>
+               </a>
               
               {isAuthenticated ? (
                 <>
