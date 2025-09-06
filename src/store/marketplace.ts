@@ -88,7 +88,7 @@ const mockProducts: Product[] = [
     description: 'High-quality wireless headphones with noise cancellation and premium sound quality.',
     price: 299.99,
     category: 'Electronics',
-    image: '/placeholder.svg',
+    image: '/Gemini_Generated_Image_3gs3dx3gs3dx3gs3.png',
     sellerId: 'seller1',
     sellerName: 'Avnisha B',
     createdAt: '2024-01-15',
@@ -112,7 +112,7 @@ const mockProducts: Product[] = [
     description: 'Premium genuine leather jacket with modern styling and perfect fit.',
     price: 249.99,
     category: 'Fashion',
-    image: '/placeholder.svg',
+    image: '/jacket.jpg',
     sellerId: 'seller3',
     sellerName: 'Muddasir S',
     createdAt: '2024-01-13'
@@ -123,7 +123,7 @@ const mockProducts: Product[] = [
     description: 'Sleek modern coffee table perfect for contemporary living spaces.',
     price: 399.99,
     category: 'Home',
-    image: '/placeholder.svg',
+    image: '/Table.jpg',
     sellerId: 'seller4',
     sellerName: 'Vedant G',
     createdAt: '2024-01-12'
@@ -134,7 +134,7 @@ const mockProducts: Product[] = [
     description: 'Comprehensive guide to learning programming from basics to advanced concepts.',
     price: 49.99,
     category: 'Books',
-    image: '/placeholder.svg',
+    image: '/Programming Fundamentals.jpg',
     sellerId: 'seller5',
     sellerName: 'Md Rehan',
     createdAt: '2024-01-11'
