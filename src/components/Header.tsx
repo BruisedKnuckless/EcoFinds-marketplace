@@ -66,16 +66,17 @@ export function Header() {
               
               {isAuthenticated ? (
                 <>
-                  <Link to="/cart">
-                    <Button variant="ghost" size="icon" className="relative">
-                      <ShoppingCart className="h-5 w-5" />
-                      {cartItemsCount > 0 && (
-                        <span className="absolute -top-1 -right-1 h-5 w-5 rounded-full bg-primary text-xs text-primary-foreground flex items-center justify-center">
-                          {cartItemsCount}
-                        </span>
-                      )}
-                    </Button>
-                  </Link>
+                  <a href="https://shop-complete.lovable.app" target="_blank" rel="noopener noreferrer">
+                  <Button variant="ghost" size="icon" className="relative">
+                 <ShoppingCart className="h-5 w-5" />
+                   {cartItemsCount > 0 && (
+                   <span className="absolute -top-1 -right-1 h-5 w-5 rounded-full bg-primary text-xs text-primary-foreground flex items-center justify-center">
+                   {cartItemsCount}
+                      </span>
+                  )}
+                 </Button> 
+                    </a>
+
                   
                   <Link to="/profile">
                     <Button variant="ghost" size="icon">
