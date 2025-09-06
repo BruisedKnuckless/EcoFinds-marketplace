@@ -88,7 +88,7 @@ const mockProducts: Product[] = [
     description: 'High-quality wireless headphones with noise cancellation and premium sound quality.',
     price: 299.99,
     category: 'Electronics',
-    image: '/src/assets/Gemini_Generated_Image_3gs3dx3gs3dx3gs3.png',
+    image: 'src/assets/jacket.jpg',
     sellerId: 'seller1',
     sellerName: 'TechStore',
     createdAt: '2024-01-15',
