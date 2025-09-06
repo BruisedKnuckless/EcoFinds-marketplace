@@ -78,11 +78,12 @@ export function Header() {
                     </a>
 
                   
-                  <Link to="/profile">
-                    <Button variant="ghost" size="icon">
-                      <User className="h-5 w-5" />
-                    </Button>
-                  </Link>
+                  <a href="https://chic-user-dash.lovable.app" target="_blank" rel="noopener noreferrer">
+  <Button variant="ghost" size="icon">
+    <User className="h-5 w-5" />
+  </Button>
+</a>
+
                 </>
               ) : (
                 <Button onClick={() => setShowLogin(true)}>
