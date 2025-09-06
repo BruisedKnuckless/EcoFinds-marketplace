@@ -97,7 +97,7 @@ const mockProducts: Product[] = [
   {
     id: '2',
     title: 'Smartphone',
-    description: 'Track your fitness goals with this advanced smartwatch featuring heart rate monitoring.',
+    description: 'High End Smartphone at cheap price as new condition.',
     price: 24999,
     category: 'Electronics',
     image: '/Smartphone.png',
@@ -131,7 +131,7 @@ const mockProducts: Product[] = [
   {
     id: '5',
     title: 'Modern Laptop',
-    description: 'Comprehensive guide to learning programming from basics to advanced concepts.',
+    description: 'High End powerful laptop minor scratches but works as new.',
     price: 54990,
     category: 'Books',
     image: '/laptop-computer.jpeg',

@@ -29,7 +29,7 @@ export function ProductCard({ product, onClick }: ProductCardProps) {
     addToCart(product.id);
     toast({
       title: "Added to Cart",
-      description: `${product.title} has been added to your cart.`,
+      description: `₹{product.title} has been added to your cart.`,
     });
   };
 
@@ -66,7 +66,7 @@ export function ProductCard({ product, onClick }: ProductCardProps) {
         <div className="flex items-center justify-between">
           <div>
             <p className="text-lg font-bold text-primary">
-              ${product.price}
+              ₹{product.price}
             </p>
             <p className="text-xs text-muted-foreground">
               by {product.sellerName}
